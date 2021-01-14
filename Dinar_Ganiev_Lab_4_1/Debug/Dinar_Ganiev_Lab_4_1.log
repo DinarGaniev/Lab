@@ -1,0 +1,9 @@
+﻿  Dinar_Ganiev_Lab_4_1.cpp
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(44,13): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(56,13): warning C4552: "+": результат выражения не используется
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ganiev_Dinar_201_351\Dinar_Ganiev_Lab_4_1\Dinar_Ganiev_Lab_4_1.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Dinar_Ganiev_Lab_4_1.vcxproj -> D:\Ganiev_Dinar_201_351\Dinar_Ganiev_251_Lab1\Debug\Dinar_Ganiev_Lab_4_1.exe
